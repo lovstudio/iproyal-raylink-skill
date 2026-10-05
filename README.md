@@ -11,7 +11,7 @@ IPRoyal ISP 只提供明文 HTTP / SOCKS5 入口。从国内直连时，目标�
 ## 安装
 
 ```bash
-npx skills add lov-iproyal-raylink -g -y
+npx lovstudio skills add iproyal-raylink
 ```
 
 本地源码安装：
